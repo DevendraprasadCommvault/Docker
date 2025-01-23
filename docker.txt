@@ -1,0 +1,4 @@
+Learning Docker contailers.
+Have created httpd container.
+Tried creating commserve conatainer but failed dur to space issues on Ec2
+
